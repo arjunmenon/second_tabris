@@ -11,4 +11,5 @@
     <plugin name="cordova-plugin-discovery" />
     <plugin name="cordova-universal-clipboard" />
 <plugin name="cordova.plugins.diagnostic" />
+<preference name="EnableDeveloperConsole" value="true" />
 </widget>
