@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="build.second_tabris" version="0.1.0">
+  <name>Second Tabris</name>
+  <description>
+    Testing out tabris js build and cordova plugins, again.
+  </description>
+  <author email="iamjkdn@outlook.com">
+    Jack Daniel
+  </author>
+<plugin name="cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-discovery" />
+    <plugin name="cordova-universal-clipboard" />
+<plugin name="cordova.plugins.diagnostic" />
+</widget>
